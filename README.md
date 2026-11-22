@@ -47,3 +47,12 @@
 
 - LinkedIn: [Merna Ayman](https://www.linkedin.com/in/merna-ayman-l/)
 - GitHub: [MernaAyman-l](https://github.com/MernaAyman-l)
+
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MernaAyman-l&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MernaAyman-l&layout=compact&theme=tokyonight" height="165" />
+</p>
