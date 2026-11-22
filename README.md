@@ -45,5 +45,5 @@
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Merna Ayman](https://www.linkedin.com/in/merna-ayman-i/)
+- LinkedIn: [Merna Ayman](https://www.linkedin.com/in/merna-ayman-l/)
 - GitHub: [MernaAyman-l](https://github.com/MernaAyman-l)
