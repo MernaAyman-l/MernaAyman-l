@@ -56,3 +56,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MernaAyman-l&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MernaAyman-l&layout=compact&theme=tokyonight" height="165" />
 </p>
+
+---
+
+### 💻 Languages & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,mysql,git,github,vscode" />
+</p>
+
+### 🤖 AI & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,sklearn,tensorflow,docker" />
+</p>
