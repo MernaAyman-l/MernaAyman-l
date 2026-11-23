@@ -58,16 +58,33 @@ I'm a Computer Science graduate from Helwan University (2026), interested in bui
 - Docker
 - Linux
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-- **AI-Powered Software Testing Agent**  
-  Automated testing, code quality evaluation, vulnerability scanning, and bug detection.
+### 1. ATM Simulator
+A desktop ATM simulation project with a graphical user interface and MySQL database integration.
 
-- **Multi-threaded ATM Simulator**  
-  A Python-based banking simulation using OOP, threading, and MySQL.
+- Designed and developed GUI components.
+- Worked with MySQL database integration.
+- Created a sequence diagram to illustrate system interactions.
 
-- **Front-End Projects**  
-  Responsive websites built using HTML, CSS, and Bootstrap.
+🔗 [View Repository](https://github.com/MernaAyman-l/Parallel-Project)
+
+### 2. Machine Learning Projects
+A collection of machine learning projects developed during CodeAlpha training.
+
+- Implemented machine learning models.
+- Worked on a Credit Score Prediction project.
+- Applied data preprocessing and model evaluation techniques.
+
+🔗 [View Repository](https://github.com/MernaAyman-l/3_Project_CodeAlpha)
+
+### 3. E-Commerce Web Application
+A web-based shopping application built using PHP and MySQL.
+
+- Worked with PHP and database integration.
+- Implemented website pages and functionality.
+
+🔗 [View Repository](https://github.com/MernaAyman-l/Shopping_Project)
 
 ### 📜 Certifications & Training
 
