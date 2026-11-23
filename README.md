@@ -1,24 +1,29 @@
+```md
 <h1 align="center">Hi, I'm Merna Ayman 👋</h1>
 
 <h3 align="center">
-  Computer Science Graduate | Software Engineering | AI & Cybersecurity
+  Computer Science Graduate | Software Engineering | QA Automation | AI & Cybersecurity
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Software+Solutions;Exploring+Artificial+Intelligence;Learning+Cybersecurity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+Software+Solutions;Exploring+AI+and+Automation;Learning+Cybersecurity;Improving+Software+Quality" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science graduate from Helwan University (2026), interested in building practical software solutions and exploring emerging technologies.
+I'm a Computer Science graduate from **Helwan University (2026)**, interested in software engineering, quality assurance, and building practical technology solutions.
 
-- 🎓 Computer Science Graduate – Helwan University.
-- 💻 Interested in Software Engineering and AI-powered applications.
+- 🎓 Bachelor's Degree in Computer Science – Helwan University.
+- 💻 Interested in Software Development and AI-powered applications.
+- 🧪 Worked on QA automation and software testing as part of my graduation project.
+- 🤖 Experienced in Machine Learning, Computer Vision, and Generative AI fundamentals.
 - 🔐 Currently exploring Cybersecurity, especially Malware Analysis and Reverse Engineering.
-- 🧪 Experienced in software testing and QA automation through my graduation project.
-- 🌱 Always learning and improving my technical skills.
+- 🌱 Always learning and developing my technical skills.
+
+---
+
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -29,16 +34,22 @@ I'm a Computer Science graduate from Helwan University (2026), interested in bui
 - JavaScript
 
 ### Web Development
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Bootstrap
 - React
+- PHP
 
 ### AI & Machine Learning
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- LangChain & LangGraph
+- LangChain
+- LangGraph
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+
+### Backend Development
 - FastAPI
 
 ### Databases
@@ -46,11 +57,12 @@ I'm a Computer Science graduate from Helwan University (2026), interested in bui
 - SQLite
 - Supabase
 
-### Software Testing
+### Software Testing & QA
 - Software Testing
 - QA Automation
-- pytest
 - Test Case Design
+- Bug Detection
+- Code Quality Evaluation
 
 ### Tools & Technologies
 - Git & GitHub
@@ -58,34 +70,59 @@ I'm a Computer Science graduate from Helwan University (2026), interested in bui
 - Docker
 - Linux
 
+---
+
 ## 🚀 Featured Projects
 
-### 1. ATM Simulator
+### 1. AI-Powered Software Engineering Platform – Graduation Project
+
+Contributed as a **QA Agent Developer** in a multi-agent software engineering platform designed to support software development and quality assurance.
+
+- Worked on the QA Agent responsible for evaluating code quality.
+- Contributed to automated testing and test generation workflows.
+- Worked on identifying code issues and supporting debugging and self-repair processes.
+- Used Python and AI-related technologies within the project architecture.
+
+**Technologies:** Python, FastAPI, LangChain, LangGraph, Groq, Docker.
+
+🔗 [View Project Repository](https://github.com/Mina-Emad-101/multi-agent-proj)
+
+### 2. ATM Simulator
+
 A desktop ATM simulation project with a graphical user interface and MySQL database integration.
 
-- Designed and developed GUI components.
+- Worked on GUI components.
 - Worked with MySQL database integration.
 - Created a sequence diagram to illustrate system interactions.
 
+**Technologies:** Java, MySQL, GUI, UML.
+
 🔗 [View Repository](https://github.com/MernaAyman-l/Parallel-Project)
 
-### 2. Machine Learning Projects
+### 3. Machine Learning Projects
+
 A collection of machine learning projects developed during CodeAlpha training.
 
 - Implemented machine learning models.
 - Worked on a Credit Score Prediction project.
 - Applied data preprocessing and model evaluation techniques.
 
+**Technologies:** Python, Machine Learning, Scikit-learn.
+
 🔗 [View Repository](https://github.com/MernaAyman-l/3_Project_CodeAlpha)
 
-### 3. E-Commerce Web Application
+### 4. E-Commerce Web Application
+
 A web-based shopping application built using PHP and MySQL.
 
+- Worked on website pages and functionality.
 - Worked with PHP and database integration.
-- Implemented website pages and functionality.
+
+**Technologies:** PHP, MySQL, HTML, CSS.
 
 🔗 [View Repository](https://github.com/MernaAyman-l/Shopping_Project)
 
+---
 
 ## 🎓 Education
 
@@ -98,7 +135,8 @@ Department of Computer Science
 - General Grade: Very Good
 - Graduation Project Grade: Excellent
 
-  
+---
+
 ## 📜 Certifications & Training
 
 - **Generative AI – NVIDIA & ITI**
@@ -113,18 +151,7 @@ Department of Computer Science
 
 - **Huawei ICT Training – HCCDA**
 
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/merna-ayman-l/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://github.com/MernaAyman-l" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
+---
 
 ## 📊 GitHub Statistics
 
@@ -135,7 +162,7 @@ Department of Computer Science
 
 ---
 
-### 💻 Languages & Technologies
+## 💻 Languages & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,react,php,mysql,sqlite,git,github,vscode" />
@@ -144,11 +171,30 @@ Department of Computer Science
 ### 🤖 AI & Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,tensorflow,pytorch,docker" />
+  <img src="https://skillicons.dev/icons?i=fastapi,supabase,docker" />
 </p>
 
-### 🔐 Cybersecurity & Tools
+### 🔐 Cybersecurity & Operating Systems
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/merna-ayman-l/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/MernaAyman-l" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Always learning, building, and exploring new technologies.</i>
+</p>
+```
