@@ -68,6 +68,14 @@ I'm a Computer Science graduate from **Helwan University (2026)**, interested in
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
 </p>
+
+### Current Learning Focus
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-238636?style=for-the-badge&logo= kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Malware_Analysis-Exploring-6F42C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-Exploring-2F81F7?style=for-the-badge" />
+</p>
+
 ---
 
 ## 🚀 Projects
@@ -149,9 +157,11 @@ Faculty of Computers and Artificial Intelligence · Department of Computer Scien
 
 ## 🌍 Languages
 
-- Arabic — Native
-- English — Very Good
-- German — Very Good
+<p>
+  <img src="https://img.shields.io/badge/Arabic-Native-2E8B57?style=for-the-badge" alt="Arabic: Native" />
+  <img src="https://img.shields.io/badge/English-Very_Good-2F81F7?style=for-the-badge" alt="English: Very Good" />
+  <img src="https://img.shields.io/badge/German-Very_Good-6F42C1?style=for-the-badge" alt="German: Very Good" />
+</p>
 
 ---
 
