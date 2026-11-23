@@ -32,23 +32,42 @@ I'm a Computer Science graduate from **Helwan University (2026)**, interested in
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-Python · C++ · C · Java · JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js" />
+</p>
 
 ### Web Development
-HTML5 · CSS3 · Bootstrap · React · PHP
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,php" />
+</p>
 
 ### AI & Machine Learning
-Machine Learning · Deep Learning · Computer Vision · Scikit-learn · TensorFlow/Keras · LangChain · LangGraph · Prompt Engineering · RAG
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn" />
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2B6CB0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7B2CBF?style=for-the-badge&logoColor=white" />
+</p>
 
 ### Backend & Databases
-FastAPI · MySQL · SQLite · Supabase
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql,sqlite,supabase" />
+</p>
 
 ### Software Testing & QA
-Software Testing · QA Automation · Test Case Design · Bug Detection · Code Quality Evaluation
+<p>
+  <img src="https://img.shields.io/badge/Software_Testing-2F81F7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/QA_Automation-238636?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Test_Case_Design-6F42C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bug_Detection-D73A49?style=for-the-badge&logoColor=white" />
+</p>
 
-### Tools
-Git · GitHub · VS Code · Docker · Linux
-
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
 ---
 
 ## 🚀 Projects
