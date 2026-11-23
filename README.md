@@ -113,10 +113,17 @@ Department of Computer Science
 
 - **Huawei ICT Training – HCCDA**
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-- LinkedIn: [Merna Ayman](https://www.linkedin.com/in/merna-ayman-l/)
-- GitHub: [MernaAyman-l](https://github.com/MernaAyman-l)
+<p align="left">
+  <a href="https://www.linkedin.com/in/merna-ayman-l/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/MernaAyman-l" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 
 
