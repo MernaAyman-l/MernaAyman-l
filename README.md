@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi, I'm Merna Ayman 👋</h1>
 
 <h3 align="center">
@@ -197,4 +197,23 @@ Department of Computer Science
 <p align="center">
   <i>Always learning, building, and exploring new technologies.</i>
 </p>
-```
+
+
+### 💻 Languages & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,mysql,git,github,vscode" />
+</p>
+
+### 🤖 AI & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,sklearn,tensorflow,docker" />
+</p>
+
+### 🔐 Cybersecurity & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
