@@ -86,6 +86,19 @@ A web-based shopping application built using PHP and MySQL.
 
 🔗 [View Repository](https://github.com/MernaAyman-l/Shopping_Project)
 
+
+## 🎓 Education
+
+**Helwan University**  
+Faculty of Computers and Artificial Intelligence  
+Department of Computer Science
+
+- Degree: Bachelor's in Computer Science
+- Graduation Year: 2026
+- General Grade: Very Good
+- Graduation Project Grade: Excellent
+
+  
 ### 📜 Certifications & Training
 
 - NVIDIA – Generative AI Training (ITI)
