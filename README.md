@@ -83,9 +83,7 @@ Contributed as a **QA Agent Developer** in a multi-agent software engineering pl
 |---|---|---|
 | Personal Portfolio | Responsive portfolio presenting skills, projects, education, and contact details. | [View](https://github.com/MernaAyman-l/Portfolio-Website) |
 | E-Commerce Web Application | Academic full-stack online store built with PHP and MySQL. | [View](https://github.com/MernaAyman-l/E-Commerce-Web-Application) |
-| Movies Search Showcase | JavaScript movie-search interface. | [View](https://github.com/MernaAyman-l/movies-search-showcase) |
-| Product Shop Filter & Sort | Product listing with filtering and sorting interactions. | [View](https://github.com/MernaAyman-l/product-shop-filter-sort) |
-| CRUD Table Manager | JavaScript CRUD operations for managing table records. | [View](https://github.com/MernaAyman-l/crud-table-manager) |
+| JavaScript Web Applications | Organized collection featuring CRUD management, movie search, and a product shop with API integration, filters, and sorting. | [Explore collection](https://github.com/MernaAyman-l/JavaScript-Web-Applications) |
 | Front-End Landing Pages | Collection of landing-page and interface projects. | [View repositories](https://github.com/MernaAyman-l?tab=repositories&q=landing) |
 
 ### 🐍 Python & Database Applications
