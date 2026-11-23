@@ -71,7 +71,7 @@ I'm a Computer Science graduate from **Helwan University (2026)**, interested in
 
 ### Current Learning Focus
 <p>
-  <img src="https://img.shields.io/badge/Cybersecurity-Learning-238636?style=for-the-badge&logo= kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-238636?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Malware_Analysis-Exploring-6F42C1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Reverse_Engineering-Exploring-2F81F7?style=for-the-badge" />
 </p>
@@ -99,10 +99,17 @@ Contributed as a **QA Agent Developer** in a multi-agent software engineering pl
 |---|---|---|
 | LSTM Review Sentiment Analysis | Binary sentiment classification of product reviews using an LSTM neural network. | [View](https://github.com/MernaAyman-l/lstm-reviews-sentiment-analysis) |
 | Movie Recommendation System | User-based collaborative filtering with the MovieLens dataset. | [View](https://github.com/MernaAyman-l/movie-recommendation-system) |
-| Student Performance Prediction | Machine learning project focused on predicting student performance. | [View](https://github.com/MernaAyman-l/Student-Performance-Prediction) |
-| Customer Clustering | Unsupervised customer segmentation project. | [View](https://github.com/MernaAyman-l/customer-clustering-project) |
-| Sales Prediction | Machine learning regression project for sales prediction. | [View](https://github.com/MernaAyman-l/sales-prediction-project) |
-| KNN Risk Evaluation | K-nearest neighbors model and risk evaluation. | [View](https://github.com/MernaAyman-l/knn-regressor-risk-evaluation) |
+
+<details>
+  <summary><strong>Additional Academic Machine Learning Projects</strong></summary>
+
+  | Project | Description | Repository |
+  |---|---|---|
+  | Student Performance Prediction | Machine learning project focused on predicting student performance. | [View](https://github.com/MernaAyman-l/Student-Performance-Prediction) |
+  | Customer Clustering | Unsupervised customer segmentation project. | [View](https://github.com/MernaAyman-l/customer-clustering-project) |
+  | Sales Prediction | Machine learning regression project for sales prediction. | [View](https://github.com/MernaAyman-l/sales-prediction-project) |
+  | KNN Risk Evaluation | K-nearest neighbors model and risk evaluation. | [View](https://github.com/MernaAyman-l/knn-regressor-risk-evaluation) |
+</details>
 
 ### 🌐 Web Development & Front-End
 
