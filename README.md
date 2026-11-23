@@ -19,15 +19,44 @@ I'm a Computer Science graduate from Helwan University (2026), interested in bui
 - 🔐 Currently exploring Cybersecurity, especially Malware Analysis and Reverse Engineering.
 - 🧪 Experienced in software testing and QA automation through my graduation project.
 - 🌱 Always learning and improving my technical skills.
+## 🛠️ Technical Skills
 
-### 🛠️ Technical Skills
+### Programming Languages
+- Python
+- C++
+- C
+- Java
+- JavaScript
 
-- **Programming:** Python, C++, C, Java
-- **Web Development:** HTML, CSS, JavaScript, Bootstrap
-- **Databases:** SQL, MySQL
-- **AI & Backend:** Machine Learning, FastAPI, LangChain, LangGraph
-- **Testing:** pytest, Software Testing, QA Automation
-- **Tools:** Git, GitHub, VS Code
+### Web Development
+- HTML
+- CSS
+- Bootstrap
+- React
+
+### AI & Machine Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- LangChain & LangGraph
+- FastAPI
+
+### Databases
+- MySQL
+- SQLite
+- Supabase
+
+### Software Testing
+- Software Testing
+- QA Automation
+- pytest
+- Test Case Design
+
+### Tools & Technologies
+- Git & GitHub
+- VS Code
+- Docker
+- Linux
 
 ### 🚀 Featured Projects
 
