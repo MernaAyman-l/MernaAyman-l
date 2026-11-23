@@ -85,6 +85,8 @@ Contributed as a **QA Agent Developer** in a multi-agent software engineering pl
 | E-Commerce Web Application | Academic PHP/MySQL clothing-store prototype with authentication, cart, and admin workflows. Security hardening is still required before deployment. | [View](https://github.com/MernaAyman-l/E-Commerce-Web-Application) |
 | JavaScript Web Applications | Organized collection featuring CRUD management, movie search, and a product shop with API integration, filters, and sorting. | [Explore collection](https://github.com/MernaAyman-l/JavaScript-Web-Applications) |
 | Front-End Practice Collection | Four organized exercises covering HTML profiles, responsive hero layouts, a bootcamp landing/login UI, and a dashboard. | [Explore collection](https://github.com/MernaAyman-l/Frontend-Practice-Collection) |
+| Floral Boutique Landing Page | Multi-section floral boutique concept with gallery, services, pricing, team, and responsive styling. | [View](https://github.com/MernaAyman-l/floral-boutique-landing-page) |
+| Food Lover Restaurant Website | Responsive restaurant landing page with menu, offers, gallery, and accessible contact-form demo. | [View](https://github.com/MernaAyman-l/pro-food-html-css) |
 
 ### 🐍 Python & Database Applications
 
