@@ -99,12 +99,19 @@ Department of Computer Science
 - Graduation Project Grade: Excellent
 
   
-### 📜 Certifications & Training
+## 📜 Certifications & Training
 
-- NVIDIA – Generative AI Training (ITI)
-- Cisco Networking Academy – Introduction to Cybersecurity
-- ITI Mahara-Tech – Cybersecurity for All
-- SEF Academy – Front-End Development
+- **Generative AI – NVIDIA & ITI**
+  - 35 Hours Training
+  - Prompt Engineering and Retrieval-Augmented Generation (RAG).
+
+- **Introduction to Cybersecurity – Cisco**
+
+- **Cybersecurity for All – Mahara-Tech**
+
+- **Front-End Development – SEF**
+
+- **Huawei ICT Training – HCCDA**
 
 ### 📫 Connect With Me
 
