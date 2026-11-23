@@ -53,7 +53,7 @@ Git · GitHub · VS Code · Docker · Linux
 
 ## 🚀 Projects
 
-Projects are grouped by area so visitors can quickly explore related work. Front-end practice exercises and JavaScript fundamentals are also available in organized collections; the original exercise repositories remain unchanged.
+Projects are grouped by area so visitors can quickly explore selected work. Smaller front-end exercises and JavaScript fundamentals are consolidated into dedicated collections.
 
 ### 🧪 Software Engineering & Quality Assurance
 
@@ -104,19 +104,6 @@ A university team project exploring object-oriented design, database operations,
 A consolidated collection of JavaScript exercises, organized by topic and updated with input validation and safer DOM handling.
 
 [**Explore the JavaScript Practice Collection →**](https://github.com/MernaAyman-l/JavaScript-Practice-Collection)
-
-The original repositories are preserved and remain accessible below.
-
-| Topic | Repository |
-|---|---|
-| Arithmetic & Geometry | [js-arithmetic-geometry-tasks](https://github.com/MernaAyman-l/js-arithmetic-geometry-tasks) |
-| Loops, DOM & Prompts | [js-loops-dom-prompts-tasks](https://github.com/MernaAyman-l/js-loops-dom-prompts-tasks) |
-| Functions, Validation & Prime Numbers | [js-functions-validation-prime-tasks](https://github.com/MernaAyman-l/js-functions-validation-prime-tasks) |
-| Strings, Math & Validation | [js-string-math-validation-tasks](https://github.com/MernaAyman-l/js-string-math-validation-tasks) |
-| Number Operations App | [js-three-number-operations-app](https://github.com/MernaAyman-l/js-three-number-operations-app) |
-| Array Methods: filter & map | [js-array-methods-filter-map](https://github.com/MernaAyman-l/js-array-methods-filter-map) |
-| Person Information & Table Validation | [person-info-table-validator](https://github.com/MernaAyman-l/person-info-table-validator) |
-| Object-Oriented Programming | [js-oop-concepts-guide](https://github.com/MernaAyman-l/js-oop-concepts-guide) |
 
 ---
 
