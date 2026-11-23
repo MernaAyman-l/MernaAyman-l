@@ -84,7 +84,7 @@ Contributed as a **QA Agent Developer** in a multi-agent software engineering pl
 | Personal Portfolio | Responsive portfolio presenting skills, projects, education, and contact details. | [View](https://github.com/MernaAyman-l/Portfolio-Website) |
 | E-Commerce Web Application | Academic full-stack online store built with PHP and MySQL. | [View](https://github.com/MernaAyman-l/E-Commerce-Web-Application) |
 | JavaScript Web Applications | Organized collection featuring CRUD management, movie search, and a product shop with API integration, filters, and sorting. | [Explore collection](https://github.com/MernaAyman-l/JavaScript-Web-Applications) |
-| Front-End Landing Pages | Collection of landing-page and interface projects. | [View repositories](https://github.com/MernaAyman-l?tab=repositories&q=landing) |
+| Front-End Practice Collection | Four organized exercises covering HTML profiles, responsive hero layouts, a bootcamp landing/login UI, and a dashboard. | [Explore collection](https://github.com/MernaAyman-l/Frontend-Practice-Collection) |
 
 ### 🐍 Python & Database Applications
 
