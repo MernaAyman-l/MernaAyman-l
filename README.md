@@ -53,7 +53,7 @@ Git · GitHub · VS Code · Docker · Linux
 
 ## 🚀 Projects
 
-Projects are grouped by area so visitors can quickly explore related work. Small JavaScript practice exercises remain available in their original repositories; no project repositories have been deleted or merged.
+Projects are grouped by area so visitors can quickly explore related work. JavaScript fundamentals and practice exercises are also available in one organized collection; the original exercise repositories remain unchanged.
 
 ### 🧪 Software Engineering & Quality Assurance
 
@@ -101,7 +101,11 @@ A university team project exploring object-oriented design, database operations,
 
 ### 📘 JavaScript Practice & Core Concepts
 
-These repositories contain focused exercises completed while learning JavaScript fundamentals. They are grouped here for easier navigation while remaining separate and accessible.
+A consolidated collection of JavaScript exercises, organized by topic and updated with input validation and safer DOM handling.
+
+[**Explore the JavaScript Practice Collection →**](https://github.com/MernaAyman-l/JavaScript-Practice-Collection)
+
+The original repositories are preserved and remain accessible below.
 
 | Topic | Repository |
 |---|---|
