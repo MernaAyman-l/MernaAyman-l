@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Merna Ayman</h1>
+<h1 align="center">Hi, I'm Merna Ayman 👋</h1>
 
-<h3 align="center">Computer Science Graduate | Software Engineering | AI & Cybersecurity</h3>
+<h3 align="center">
+  Computer Science Graduate | Software Engineering | AI & Cybersecurity
+</h3>
 
 <p align="center">
-  Passionate about building practical software solutions, exploring AI technologies, and learning cybersecurity.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Software+Solutions;Exploring+Artificial+Intelligence;Learning+Cybersecurity" />
 </p>
 
 ---
