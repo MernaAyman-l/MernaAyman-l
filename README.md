@@ -1,11 +1,17 @@
 <h1 align="center">Hi, I'm Merna Ayman 👋</h1>
 
 <h3 align="center">
-  Computer Science Graduate | Software Engineering | QA Automation | AI & Cybersecurity
+  Computer Science Graduate | Software Engineering | QA & Test Automation | AI
 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+Software+Solutions;Exploring+AI+and+Automation;Learning+Cybersecurity;Improving+Software+Quality" />
+</p>
+
+<p align="center">
+  <a href="https://mernaayman-l.github.io/Portfolio-Website/">Portfolio</a> ·
+  <a href="https://mernaayman-l.github.io/CV/">Online CV</a> ·
+  <a href="https://www.linkedin.com/in/merna-ayman-l/">LinkedIn</a>
 </p>
 
 ---
@@ -15,8 +21,8 @@
 I'm a Computer Science graduate from **Helwan University (2026)**, interested in software engineering, quality assurance, and building practical technology solutions.
 
 - 🎓 Bachelor's Degree in Computer Science – Helwan University.
-- 💻 Interested in Software Development and AI-powered applications.
-- 🧪 Worked on QA automation and software testing as part of my graduation project.
+- 💻 Interested in software development, software quality, and AI-powered applications.
+- 🧪 Contributed to the QA Agent in my graduation project, focusing on software evaluation and testing workflows.
 - 🤖 Worked with Machine Learning, Computer Vision, and Generative AI technologies.
 - 🔐 Currently exploring Cybersecurity, especially Malware Analysis and Reverse Engineering.
 - 🌱 Always learning and improving my technical skills.
@@ -26,130 +32,116 @@ I'm a Computer Science graduate from **Helwan University (2026)**, interested in
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- Python
-- C++
-- C
-- Java
-- JavaScript
+Python · C++ · C · Java · JavaScript
 
 ### Web Development
-- HTML5
-- CSS3
-- Bootstrap
-- React
-- PHP
+HTML5 · CSS3 · Bootstrap · React · PHP
 
 ### AI & Machine Learning
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Scikit-learn
-- LangChain & LangGraph
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
+Machine Learning · Deep Learning · Computer Vision · Scikit-learn · TensorFlow/Keras · LangChain · LangGraph · Prompt Engineering · RAG
 
-### Backend Development
-- FastAPI
-
-### Databases
-- MySQL
-- SQLite
-- Supabase
+### Backend & Databases
+FastAPI · MySQL · SQLite · Supabase
 
 ### Software Testing & QA
-- Software Testing
-- QA Automation
-- Test Case Design
-- Bug Detection
-- Code Quality Evaluation
+Software Testing · QA Automation · Test Case Design · Bug Detection · Code Quality Evaluation
 
-### Tools & Technologies
-- Git & GitHub
-- VS Code
-- Docker
-- Linux
+### Tools
+Git · GitHub · VS Code · Docker · Linux
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 1. AI-Powered Software Engineering Platform – Graduation Project
+Projects are grouped by area so visitors can quickly explore related work. Small JavaScript practice exercises remain available in their original repositories; no project repositories have been deleted or merged.
 
-Contributed as a **QA Agent Developer** in a multi-agent software engineering platform designed to support software development and quality assurance.
+### 🧪 Software Engineering & Quality Assurance
 
-- Worked on the QA Agent and its code evaluation workflow.
+**AI-Powered Software Engineering Platform — Graduation Project**  
+Contributed as a **QA Agent Developer** in a multi-agent software engineering platform.
+- Worked on the QA Agent and its code-evaluation workflow.
 - Contributed to automated testing and test-generation workflows.
 - Worked on identifying code issues and supporting debugging and self-repair processes.
 
-**Technologies:** Python, FastAPI, LangChain, LangGraph, Groq, Docker.
+**Technologies:** Python, FastAPI, LangChain, LangGraph, Groq, Docker  
+[View project repository](https://github.com/Mina-Emad-101/multi-agent-proj)
 
-🔗 [View Project Repository](https://github.com/Mina-Emad-101/multi-agent-proj)
+### 🤖 Machine Learning & AI
 
-### 2. ATM Simulator
+| Project | Description | Repository |
+|---|---|---|
+| LSTM Review Sentiment Analysis | Binary sentiment classification of product reviews using an LSTM neural network. | [View](https://github.com/MernaAyman-l/lstm-reviews-sentiment-analysis) |
+| Movie Recommendation System | User-based collaborative filtering with the MovieLens dataset. | [View](https://github.com/MernaAyman-l/movie-recommendation-system) |
+| Student Performance Prediction | Machine learning project focused on predicting student performance. | [View](https://github.com/MernaAyman-l/Student-Performance-Prediction) |
+| Customer Clustering | Unsupervised customer segmentation project. | [View](https://github.com/MernaAyman-l/customer-clustering-project) |
+| Sales Prediction | Machine learning regression project for sales prediction. | [View](https://github.com/MernaAyman-l/sales-prediction-project) |
+| KNN Risk Evaluation | K-nearest neighbors model and risk evaluation. | [View](https://github.com/MernaAyman-l/knn-regressor-risk-evaluation) |
 
-A desktop ATM simulation system that models concurrent banking operations using multithreading, synchronization locks, a Tkinter GUI, and a MySQL database.
+### 🌐 Web Development & Front-End
 
-- Developed GUI components using Tkinter.
-- Worked on system design and the sequence diagram.
-- The system supports concurrent ATM sessions, transaction logging, and PDF transaction reports.
+| Project | Description | Repository |
+|---|---|---|
+| Personal Portfolio | Responsive portfolio presenting skills, projects, education, and contact details. | [View](https://github.com/MernaAyman-l/Portfolio-Website) |
+| E-Commerce Web Application | Academic full-stack online store built with PHP and MySQL. | [View](https://github.com/MernaAyman-l/E-Commerce-Web-Application) |
+| Movies Search Showcase | JavaScript movie-search interface. | [View](https://github.com/MernaAyman-l/movies-search-showcase) |
+| Product Shop Filter & Sort | Product listing with filtering and sorting interactions. | [View](https://github.com/MernaAyman-l/product-shop-filter-sort) |
+| CRUD Table Manager | JavaScript CRUD operations for managing table records. | [View](https://github.com/MernaAyman-l/crud-table-manager) |
+| Front-End Landing Pages | Collection of landing-page and interface projects. | [View repositories](https://github.com/MernaAyman-l?tab=repositories&q=landing) |
 
-**Technologies:** Python, Tkinter, MySQL, Threading, ReportLab.
+### 🐍 Python & Database Applications
 
-🔗 [View Repository](https://github.com/MernaAyman-l/ATM-Simulator-Python-MySQL)
+**ATM Simulator**  
+A university team project exploring object-oriented design, database operations, Tkinter interfaces, and threaded ATM sessions.
+- Team Leader.
+- Worked on the Tkinter graphical interface.
+- Contributed to system design and the sequence diagram.
 
-### 3. E-Commerce Web Application
+**Technologies:** Python, Tkinter, MySQL, Threading  
+[View repository](https://github.com/MernaAyman-l/ATM-Simulator-Python-MySQL)
 
-A full-stack online clothing store built with PHP and MySQL.
+### 📘 JavaScript Practice & Core Concepts
 
-- Implemented user registration and authentication.
-- Worked with shopping cart, checkout, product catalog, and order functionality.
-- Includes JWT-based session handling and AES-256-CBC price encryption.
+These repositories contain focused exercises completed while learning JavaScript fundamentals. They are grouped here for easier navigation while remaining separate and accessible.
 
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript.
-
-🔗 [View Repository](https://github.com/MernaAyman-l/E-Commerce-Web-Application)
-
-### 4. Movie Recommendation System
-
-A user-based collaborative filtering recommendation system that generates personalized movie suggestions using the MovieLens dataset.
-
-**Technologies:** Python, Pandas, NumPy, SciPy, Scikit-learn.
-
-🔗 [View Repository](https://github.com/MernaAyman-l/movie-recommendation-system)
-
-### 5. Product Reviews Sentiment Analysis
-
-A binary sentiment classification project using an LSTM neural network to classify product reviews as positive or negative.
-
-**Technologies:** Python, TensorFlow/Keras, NLTK, Pandas, Scikit-learn.
-
-🔗 [View Repository](https://github.com/MernaAyman-l/lstm-reviews-sentiment-analysis)
+| Topic | Repository |
+|---|---|
+| Arithmetic & Geometry | [js-arithmetic-geometry-tasks](https://github.com/MernaAyman-l/js-arithmetic-geometry-tasks) |
+| Loops, DOM & Prompts | [js-loops-dom-prompts-tasks](https://github.com/MernaAyman-l/js-loops-dom-prompts-tasks) |
+| Functions, Validation & Prime Numbers | [js-functions-validation-prime-tasks](https://github.com/MernaAyman-l/js-functions-validation-prime-tasks) |
+| Strings, Math & Validation | [js-string-math-validation-tasks](https://github.com/MernaAyman-l/js-string-math-validation-tasks) |
+| Number Operations App | [js-three-number-operations-app](https://github.com/MernaAyman-l/js-three-number-operations-app) |
+| Array Methods: filter & map | [js-array-methods-filter-map](https://github.com/MernaAyman-l/js-array-methods-filter-map) |
+| Person Information & Table Validation | [person-info-table-validator](https://github.com/MernaAyman-l/person-info-table-validator) |
+| Object-Oriented Programming | [js-oop-concepts-guide](https://github.com/MernaAyman-l/js-oop-concepts-guide) |
 
 ---
 
 ## 🎓 Education
 
 **Helwan University**  
-Faculty of Computers and Artificial Intelligence  
-Department of Computer Science
+Faculty of Computers and Artificial Intelligence · Department of Computer Science
 
-- Degree: Bachelor's in Computer Science
-- Graduation Year: 2026
-- General Grade: Very Good
-- Graduation Project Grade: Excellent
+- Bachelor's Degree in Computer Science — 2026
+- General Grade: **Very Good**
+- Graduation Project Grade: **Excellent**
 
 ---
 
 ## 📜 Certifications & Training
 
-- **Generative AI – NVIDIA & ITI**
-  - 35 Hours Training
-  - Prompt Engineering and Retrieval-Augmented Generation (RAG).
-
+- **Generative AI – NVIDIA & ITI** — 35 hours; Prompt Engineering and RAG.
 - **Introduction to Cybersecurity – Cisco**
 - **Cybersecurity for All – Mahara-Tech**
 - **Front-End Development – SEF**
 - **Huawei ICT Training – HCCDA**
+
+---
+
+## 🌍 Languages
+
+- Arabic — Native
+- English — Very Good
+- German — Very Good
 
 ---
 
@@ -162,34 +154,17 @@ Department of Computer Science
 
 ---
 
-### 💻 Languages & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,mysql,git,github,vscode" />
-</p>
-
-### 🤖 AI & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,sklearn,tensorflow,docker" />
-</p>
-
-### 🔐 Cybersecurity & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/merna-ayman-l/" target="_blank">
+  <a href="https://www.linkedin.com/in/merna-ayman-l/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/MernaAyman-l" target="_blank">
+  <a href="https://github.com/MernaAyman-l">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://mernaayman-l.github.io/Portfolio-Website/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6f42c1?style=for-the-badge" />
   </a>
 </p>
 
