@@ -115,12 +115,14 @@ Contributed as a **QA Agent Developer** in a multi-agent software engineering pl
 
 | Project | Description | Repository |
 |---|---|---|
-| Personal Portfolio | Responsive portfolio presenting skills, projects, education, and contact details. | [View](https://github.com/MernaAyman-l/Portfolio-Website) |
-| E-Commerce Web Application | Academic PHP/MySQL clothing-store prototype with authentication, cart, and admin workflows. Security hardening is still required before deployment. | [View](https://github.com/MernaAyman-l/E-Commerce-Web-Application) |
+| Portfolio Website | Current personal portfolio presenting skills, selected projects, education, and contact details. | [View](https://github.com/MernaAyman-l/Portfolio-Website) |
+
 | JavaScript Web Applications | Organized collection featuring CRUD management, movie search, and a product shop with API integration, filters, and sorting. | [Explore collection](https://github.com/MernaAyman-l/JavaScript-Web-Applications) |
 | Front-End Practice Collection | Four organized exercises covering HTML profiles, responsive hero layouts, a bootcamp landing/login UI, and a dashboard. | [Explore collection](https://github.com/MernaAyman-l/Frontend-Practice-Collection) |
-| Floral Boutique Landing Page | Multi-section floral boutique concept with gallery, services, pricing, team, and responsive styling. | [View](https://github.com/MernaAyman-l/floral-boutique-landing-page) |
-| Food Lover Restaurant Website | Responsive restaurant landing page with menu, offers, gallery, and accessible contact-form demo. | [View](https://github.com/MernaAyman-l/pro-food-html-css) |
+
+
+
+| Mini Projects & Experiments | Consolidated archive of smaller front-end and machine-learning exercises. | [Explore archive](https://github.com/MernaAyman-l/Mini-Projects-and-Experiments) |
 
 ### 🐍 Python & Database Applications
 
@@ -132,6 +134,13 @@ A university team project exploring object-oriented design, database operations,
 
 **Technologies:** Python, Tkinter, MySQL, Threading  
 [View repository](https://github.com/MernaAyman-l/ATM-Simulator-Python-MySQL)
+
+### 🎮 Game Development & Team Projects
+
+**Boat Racing Game** — A Unity 3D team project featuring multiple game scenes, player-control scripts, camera movement, coin spawning, and UI/gameplay components.
+
+**Technologies:** Unity, C#
+[View repository](https://github.com/MernaAyman-l/Boat-Racing-Game)
 
 ### 📘 JavaScript Practice & Core Concepts
 
