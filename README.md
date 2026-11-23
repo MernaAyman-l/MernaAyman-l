@@ -199,21 +199,3 @@ Department of Computer Science
 </p>
 
 
-### 💻 Languages & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,mysql,git,github,vscode" />
-</p>
-
-### 🤖 AI & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,sklearn,tensorflow,docker" />
-</p>
-
-### 🔐 Cybersecurity & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
-
