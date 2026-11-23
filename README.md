@@ -10,13 +10,15 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 Computer Science Graduate from Helwan University.
-- 💻 Interested in Software Engineering, AI, and Cybersecurity.
-- 🤖 Worked on AI-powered software testing and QA automation.
-- 🌱 Currently expanding my knowledge in Cybersecurity.
-- 🔍 Always curious to learn new technologies and solve problems.
+I'm a Computer Science graduate from Helwan University (2026), interested in building practical software solutions and exploring emerging technologies.
+
+- 🎓 Computer Science Graduate – Helwan University.
+- 💻 Interested in Software Engineering and AI-powered applications.
+- 🔐 Currently exploring Cybersecurity, especially Malware Analysis and Reverse Engineering.
+- 🧪 Experienced in software testing and QA automation through my graduation project.
+- 🌱 Always learning and improving my technical skills.
 
 ### 🛠️ Technical Skills
 
