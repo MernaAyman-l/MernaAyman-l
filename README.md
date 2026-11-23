@@ -53,7 +53,7 @@ Git · GitHub · VS Code · Docker · Linux
 
 ## 🚀 Projects
 
-Projects are grouped by area so visitors can quickly explore related work. JavaScript fundamentals and practice exercises are also available in one organized collection; the original exercise repositories remain unchanged.
+Projects are grouped by area so visitors can quickly explore related work. Front-end practice exercises and JavaScript fundamentals are also available in organized collections; the original exercise repositories remain unchanged.
 
 ### 🧪 Software Engineering & Quality Assurance
 
@@ -82,7 +82,7 @@ Contributed as a **QA Agent Developer** in a multi-agent software engineering pl
 | Project | Description | Repository |
 |---|---|---|
 | Personal Portfolio | Responsive portfolio presenting skills, projects, education, and contact details. | [View](https://github.com/MernaAyman-l/Portfolio-Website) |
-| E-Commerce Web Application | Academic full-stack online store built with PHP and MySQL. | [View](https://github.com/MernaAyman-l/E-Commerce-Web-Application) |
+| E-Commerce Web Application | Academic PHP/MySQL clothing-store prototype with authentication, cart, and admin workflows. Security hardening is still required before deployment. | [View](https://github.com/MernaAyman-l/E-Commerce-Web-Application) |
 | JavaScript Web Applications | Organized collection featuring CRUD management, movie search, and a product shop with API integration, filters, and sorting. | [Explore collection](https://github.com/MernaAyman-l/JavaScript-Web-Applications) |
 | Front-End Practice Collection | Four organized exercises covering HTML profiles, responsive hero layouts, a bootcamp landing/login UI, and a dashboard. | [Explore collection](https://github.com/MernaAyman-l/Frontend-Practice-Collection) |
 
