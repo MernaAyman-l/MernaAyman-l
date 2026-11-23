@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Merna Ayman 👋</h1>
 
 <h3 align="center">
@@ -18,9 +17,9 @@ I'm a Computer Science graduate from **Helwan University (2026)**, interested in
 - 🎓 Bachelor's Degree in Computer Science – Helwan University.
 - 💻 Interested in Software Development and AI-powered applications.
 - 🧪 Worked on QA automation and software testing as part of my graduation project.
-- 🤖 Experienced in Machine Learning, Computer Vision, and Generative AI fundamentals.
+- 🤖 Worked with Machine Learning, Computer Vision, and Generative AI technologies.
 - 🔐 Currently exploring Cybersecurity, especially Malware Analysis and Reverse Engineering.
-- 🌱 Always learning and developing my technical skills.
+- 🌱 Always learning and improving my technical skills.
 
 ---
 
@@ -44,8 +43,8 @@ I'm a Computer Science graduate from **Helwan University (2026)**, interested in
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- LangChain
-- LangGraph
+- Scikit-learn
+- LangChain & LangGraph
 - Prompt Engineering
 - Retrieval-Augmented Generation (RAG)
 
@@ -78,10 +77,9 @@ I'm a Computer Science graduate from **Helwan University (2026)**, interested in
 
 Contributed as a **QA Agent Developer** in a multi-agent software engineering platform designed to support software development and quality assurance.
 
-- Worked on the QA Agent responsible for evaluating code quality.
-- Contributed to automated testing and test generation workflows.
+- Worked on the QA Agent and its code evaluation workflow.
+- Contributed to automated testing and test-generation workflows.
 - Worked on identifying code issues and supporting debugging and self-repair processes.
-- Used Python and AI-related technologies within the project architecture.
 
 **Technologies:** Python, FastAPI, LangChain, LangGraph, Groq, Docker.
 
@@ -89,38 +87,43 @@ Contributed as a **QA Agent Developer** in a multi-agent software engineering pl
 
 ### 2. ATM Simulator
 
-A desktop ATM simulation project with a graphical user interface and MySQL database integration.
+A desktop ATM simulation system that models concurrent banking operations using multithreading, synchronization locks, a Tkinter GUI, and a MySQL database.
 
-- Worked on GUI components.
-- Worked with MySQL database integration.
-- Created a sequence diagram to illustrate system interactions.
+- Developed GUI components using Tkinter.
+- Worked on system design and the sequence diagram.
+- The system supports concurrent ATM sessions, transaction logging, and PDF transaction reports.
 
-**Technologies:** Java, MySQL, GUI, UML.
+**Technologies:** Python, Tkinter, MySQL, Threading, ReportLab.
 
-🔗 [View Repository](https://github.com/MernaAyman-l/Parallel-Project)
+🔗 [View Repository](https://github.com/MernaAyman-l/ATM-Simulator-Python-MySQL)
 
-### 3. Machine Learning Projects
+### 3. E-Commerce Web Application
 
-A collection of machine learning projects developed during CodeAlpha training.
+A full-stack online clothing store built with PHP and MySQL.
 
-- Implemented machine learning models.
-- Worked on a Credit Score Prediction project.
-- Applied data preprocessing and model evaluation techniques.
+- Implemented user registration and authentication.
+- Worked with shopping cart, checkout, product catalog, and order functionality.
+- Includes JWT-based session handling and AES-256-CBC price encryption.
 
-**Technologies:** Python, Machine Learning, Scikit-learn.
+**Technologies:** PHP, MySQL, HTML, CSS, JavaScript.
 
-🔗 [View Repository](https://github.com/MernaAyman-l/3_Project_CodeAlpha)
+🔗 [View Repository](https://github.com/MernaAyman-l/E-Commerce-Web-Application)
 
-### 4. E-Commerce Web Application
+### 4. Movie Recommendation System
 
-A web-based shopping application built using PHP and MySQL.
+A user-based collaborative filtering recommendation system that generates personalized movie suggestions using the MovieLens dataset.
 
-- Worked on website pages and functionality.
-- Worked with PHP and database integration.
+**Technologies:** Python, Pandas, NumPy, SciPy, Scikit-learn.
 
-**Technologies:** PHP, MySQL, HTML, CSS.
+🔗 [View Repository](https://github.com/MernaAyman-l/movie-recommendation-system)
 
-🔗 [View Repository](https://github.com/MernaAyman-l/Shopping_Project)
+### 5. Product Reviews Sentiment Analysis
+
+A binary sentiment classification project using an LSTM neural network to classify product reviews as positive or negative.
+
+**Technologies:** Python, TensorFlow/Keras, NLTK, Pandas, Scikit-learn.
+
+🔗 [View Repository](https://github.com/MernaAyman-l/lstm-reviews-sentiment-analysis)
 
 ---
 
@@ -144,11 +147,8 @@ Department of Computer Science
   - Prompt Engineering and Retrieval-Augmented Generation (RAG).
 
 - **Introduction to Cybersecurity – Cisco**
-
 - **Cybersecurity for All – Mahara-Tech**
-
 - **Front-End Development – SEF**
-
 - **Huawei ICT Training – HCCDA**
 
 ---
@@ -162,22 +162,22 @@ Department of Computer Science
 
 ---
 
-## 💻 Languages & Technologies
+### 💻 Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,react,php,mysql,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,bootstrap,mysql,git,github,vscode" />
 </p>
 
 ### 🤖 AI & Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,supabase,docker" />
+  <img src="https://skillicons.dev/icons?i=fastapi,sklearn,tensorflow,docker" />
 </p>
 
-### 🔐 Cybersecurity & Operating Systems
+### 🔐 Cybersecurity & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
 
 ---
@@ -188,7 +188,6 @@ Department of Computer Science
   <a href="https://www.linkedin.com/in/merna-ayman-l/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
   <a href="https://github.com/MernaAyman-l" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
@@ -197,5 +196,3 @@ Department of Computer Science
 <p align="center">
   <i>Always learning, building, and exploring new technologies.</i>
 </p>
-
-
